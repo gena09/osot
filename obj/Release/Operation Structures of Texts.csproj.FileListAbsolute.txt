@@ -1,0 +1,21 @@
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Interop.AGRAMTABLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Interop.GRAPHANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Interop.LEMMATIZERLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Interop.MAPOSTLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Interop.SEMANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Interop.SYNANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Operation Structures of Texts.csproj.ResolveComReference.cache
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Release\Operation Structures of Texts.exe
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Release\Operation Structures of Texts.pdb
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Release\Interop.AGRAMTABLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Release\Interop.GRAPHANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Release\Interop.LEMMATIZERLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Release\Interop.MAPOSTLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Release\Interop.SEMANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Release\Interop.SYNANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Operation_Structures_of_Texts.Form1.resources
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Operation_Structures_of_Texts.Properties.Resources.resources
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Operation Structures of Texts.csproj.GenerateResource.Cache
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Operation Structures of Texts.exe
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Release\Operation Structures of Texts.pdb

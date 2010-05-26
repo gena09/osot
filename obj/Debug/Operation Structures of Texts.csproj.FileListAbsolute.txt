@@ -1,0 +1,44 @@
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.LEMMATIZERLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.SYNANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation Structures of Texts.csproj.ResolveComReference.cache
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation_Structures_of_Texts.Form1.resources
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation_Structures_of_Texts.Properties.Resources.resources
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation Structures of Texts.csproj.GenerateResource.Cache
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.AGRAMTABLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Operation Structures of Texts.exe
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Operation Structures of Texts.pdb
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.AGRAMTABLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.LEMMATIZERLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.SYNANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation Structures of Texts.exe
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation Structures of Texts.pdb
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.GRAPHANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.GRAPHANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.MAPOSTLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.MAPOSTLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.SEMANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.SEMANLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.AGRAMTABLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.GRAPHANLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.LEMMATIZERLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.MAPOSTLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.SEMANLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Interop.SYNANLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation Structures of Texts.csproj.ResolveComReference.cache
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation Structures of Texts.exe
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation Structures of Texts.pdb
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation_Structures_of_Texts.Form1.resources
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation_Structures_of_Texts.Properties.Resources.resources
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation_Structures_of_Texts.Skorin.resources
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation Structures of Texts.csproj.GenerateResource.Cache
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Operation Structures of Texts.exe
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Operation Structures of Texts.pdb
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.AGRAMTABLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.GRAPHANLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.LEMMATIZERLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.MAPOSTLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.SEMANLib.dll
+C:\Documents and Settings\@brat\Рабочий стол\Operation Structures of Texts\Operation Structures of Texts\bin\Debug\Interop.SYNANLib.dll
+E:\Projects\Operation Structures of Texts\Operation Structures of Texts\obj\Debug\Operation_Structures_of_Texts.Skorin.resources
