@@ -117,7 +117,11 @@ namespace Operation_Structures_of_Texts.Classes.Sci_fi.Processors.Semantics
                     }
                     for (int j = 0; j < multiDescr.Count; j++)
                     {
-                        if ((getFace(actionDescription) == getFace(multiDescr[j])) && (getNumber(actionDescription) == getNumber(multiDescr[j])))
+                        if (
+                            (actionIndex==-1)||(
+                            (getFace(actionDescription) == getFace(multiDescr[j]))
+                            && (getNumber(actionDescription) == getNumber(multiDescr[j])))
+                        )
                         {
 
                             if (description.Contains("им"))
@@ -129,7 +133,7 @@ namespace Operation_Structures_of_Texts.Classes.Sci_fi.Processors.Semantics
                             string pos = word.get_Homonym(0).POSStr;
                             switch (pos)
                             {
-                                case "C": pretendents[i] = pretendents[i] * 8; break;
+                                case "С": pretendents[i] = pretendents[i] * 8; break;
                                 case "МС": pretendents[i] = pretendents[i] * 8; break;
                                 case "МС-ПРЕДК": pretendents[i] = pretendents[i] * 5; break;
                                 case "МС-П": pretendents[i] = pretendents[i] * 5; break;
