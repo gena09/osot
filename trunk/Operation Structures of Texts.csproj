@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>9.0.21022</ProductVersion>
+    <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{7E738F1A-29E1-4A06-9218-CFEDE1BC162C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
@@ -51,67 +51,69 @@
     <Compile Include="Classes\Analysis\Projection.cs" />
     <Compile Include="Classes\Analysis\Structurs\Claster.cs" />
     <Compile Include="Classes\Analysis\Structurs\Layer.cs" />
-    <Compile Include="Classes\Controller.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\GraphematicProcessor.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\IWordProcessor.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\MorphologyProcessor.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\ClausesTree.cs" />
-    <Compile Include="Classes\Trash\OperationProcessGenerator.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\SemanticProcessor.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Prognoser.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\Action\ODNORODN_INF.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\Action\PER_GLAG_INF.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\Action\PODL.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\Action\PRIAM_DOP.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\Actor\PODL.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\AuxularyMethods.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\Factory.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\IRule.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\OFA\PRIAM_DOP.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\ANAT_SRAVN.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\ELECT_IG.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\FIO.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\GENIT_IG.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\OFA\INSTR_DOP.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\MODIF_PRIL.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\NARECH_GLAGOL.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\NAR_NAR_CHISL.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\NAR_PREDIK.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\NAR_PRIL.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\ODNOR_NAR.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\ODNOR_PRIL.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\OTRICAT_FORM.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\OTSRAVN.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\PG.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\PRICH_SUSH.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\PRIL_SUSH.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\RAZRIV_SOUS.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\ODNORODN_IG.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\PRIDAT_OPR.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\SRAVN_STEPEN.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\SUSH_CHISL.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\Rules\UnionsAndOther\SUSH_OBS_PRIL.cs" />
-    <Compile Include="Classes\Sci-fi\Statistics\StatisticsCollector.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\Semantics\SemanticSearchWithProbabilytis.cs" />
-    <Compile Include="Classes\Sci-fi\Statistics\SourceTargetEnum.cs" />
-    <Compile Include="Classes\Sci-fi\Statistics\StatPackage.cs" />
-    <Compile Include="Classes\Sci-fi\Statistics\WordRuleProbability.cs" />
-    <Compile Include="Classes\Sci-fi\Processors\SyntaxProcessor.cs" />
+    <Compile Include="Classes\Genesis\Model.cs" />
+    <Compile Include="Controller.cs" />
+    <Compile Include="Classes\Instruments\RussServiceWords.cs" />
+    <Compile Include="Classes\Instruments\Processors\GraphematicProcessor.cs" />
+    <Compile Include="Classes\Instruments\Processors\IWordProcessor.cs" />
+    <Compile Include="Classes\Instruments\Processors\MorphologyProcessor.cs" />
+    <Compile Include="Classes\Instruments\Processors\PreSemantics\ClausesForestBuilder.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\ClausesTree.cs" />
+    <Compile Include="Classes\Instruments\Processors\SemanticProcessor.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Prognoser.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\Action\ODNORODN_INF.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\Action\PER_GLAG_INF.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\Action\PODL.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\Action\PRIAM_DOP.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\Actor\PODL.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\AuxularyMethods.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\Factory.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\IRule.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\OFA\PRIAM_DOP.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\ANAT_SRAVN.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\ELECT_IG.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\FIO.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\GENIT_IG.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\OFA\INSTR_DOP.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\MODIF_PRIL.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\NARECH_GLAGOL.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\NAR_NAR_CHISL.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\NAR_PREDIK.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\NAR_PRIL.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\ODNOR_NAR.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\ODNOR_PRIL.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\OTRICAT_FORM.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\OTSRAVN.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\PG.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\PRICH_SUSH.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\PRIL_SUSH.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\RAZRIV_SOUS.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\ODNORODN_IG.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\PRIDAT_OPR.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\SRAVN_STEPEN.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\SUSH_CHISL.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\Rules\UnionsAndOther\SUSH_OBS_PRIL.cs" />
+    <Compile Include="Classes\Instruments\Statistics\StatisticsCollector.cs" />
+    <Compile Include="Classes\Instruments\Processors\Semantics\SemanticSearchWithProbabilytis.cs" />
+    <Compile Include="Classes\Instruments\Statistics\SourceTargetEnum.cs" />
+    <Compile Include="Classes\Instruments\Statistics\StatPackage.cs" />
+    <Compile Include="Classes\Instruments\Statistics\WordRuleProbability.cs" />
+    <Compile Include="Classes\Instruments\Processors\SyntaxProcessor.cs" />
     <Compile Include="Classes\Text Model\Brackets.cs" />
     <Compile Include="Classes\Text Model\LongOperationAttribut.cs" />
     <Compile Include="Classes\Text Model\ElementaryAttribut.cs" />
     <Compile Include="Classes\Text Model\ElementaryProcess.cs" />
     <Compile Include="Classes\Text Model\IOperationStructure.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -194,9 +196,10 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Classes\Instruments\" />
-    <Folder Include="Classes\Sci-fi\Processors\Semantics\Rules\AOFA\" />
-    <Folder Include="Classes\Sci-fi\Processors\Semantics\Rules\COA\" />
+    <Folder Include="Classes\Demonstration\" />
+    <Folder Include="Classes\Instruments\Processors\Semantics\Rules\AOFA\" />
+    <Folder Include="Classes\Instruments\Processors\Semantics\Rules\COA\" />
+    <Folder Include="Classes\Trash\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

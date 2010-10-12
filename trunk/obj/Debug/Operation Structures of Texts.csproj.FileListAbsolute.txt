@@ -51,3 +51,47 @@ G:\Skorin\Магистратура\Разработки\Operation Structures of 
 G:\Skorin\Магистратура\Разработки\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.csproj.ResolveComReference.cache
 G:\Skorin\Магистратура\Разработки\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.exe
 G:\Skorin\Магистратура\Разработки\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.pdb
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.AGRAMTABLib.dll
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.GRAPHANLib.dll
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.LEMMATIZERLib.dll
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.MAPOSTLib.dll
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.SEMANLib.dll
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.SYNANLib.dll
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.csproj.ResolveComReference.cache
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.exe
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.pdb
+E:\Projects\Operation Structures of Texts\osot\bin\Debug\Operation Structures of Texts.exe
+E:\Projects\Operation Structures of Texts\osot\bin\Debug\Operation Structures of Texts.pdb
+E:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.AGRAMTABLib.dll
+E:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.GRAPHANLib.dll
+E:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.LEMMATIZERLib.dll
+E:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.MAPOSTLib.dll
+E:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.SEMANLib.dll
+E:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.SYNANLib.dll
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation_Structures_of_Texts.Properties.Resources.resources
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation_Structures_of_Texts.Skorin.resources
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.csproj.GenerateResource.Cache
+E:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation_Structures_of_Texts.MainForm.resources
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.csproj.ResolveComReference.cache
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.exe
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.pdb
+D:\Projects\Operation Structures of Texts\osot\bin\Debug\Operation Structures of Texts.exe
+D:\Projects\Operation Structures of Texts\osot\bin\Debug\Operation Structures of Texts.pdb
+D:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.AGRAMTABLib.dll
+D:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.GRAPHANLib.dll
+D:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.LEMMATIZERLib.dll
+D:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.MAPOSTLib.dll
+D:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.SEMANLib.dll
+D:\Projects\Operation Structures of Texts\osot\bin\Debug\Interop.SYNANLib.dll
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.AGRAMTABLib.dll
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.GRAPHANLib.dll
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.LEMMATIZERLib.dll
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.MAPOSTLib.dll
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.SEMANLib.dll
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Interop.SYNANLib.dll
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation_Structures_of_Texts.MainForm.resources
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation_Structures_of_Texts.Properties.Resources.resources
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation_Structures_of_Texts.Skorin.resources
+D:\Projects\Operation Structures of Texts\osot\obj\Debug\Operation Structures of Texts.csproj.GenerateResource.Cache

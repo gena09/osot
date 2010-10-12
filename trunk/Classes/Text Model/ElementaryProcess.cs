@@ -31,6 +31,9 @@ namespace Operation_Structures_of_Texts.Classes.Text_Model
         /// "Пакет" статистики для данного процесса
         /// </summary>
         public StatPackage statsForThatProcess;
+
+        public string statsString;
+
         #endregion
 
         public ElementaryProcess(ClausesTree inTreeElement)
@@ -42,6 +45,61 @@ namespace Operation_Structures_of_Texts.Classes.Text_Model
             objectForAction = new LongOperationAttribut(this);
                         
             this.inTreeElement = inTreeElement;
+        }
+
+        public string getStatString()
+        {
+            statsString = "";
+            //----------слова вне графа
+            bool thereIsWordsOutOfGroups = false;
+            if ((inTreeElement.wordsOutOfGroups != null) | (inTreeElement.wordsOutOfGroups.Count != 0))
+            {                
+                for (int i = 0; i < inTreeElement.wordsOutOfGroups.Count; i++)
+                {
+                    if (inTreeElement.wordsOutOfGroups[i].WordStr != ".")//дописать остальные знаки препинания
+                        thereIsWordsOutOfGroups = true;
+                }
+            }
+            if (thereIsWordsOutOfGroups)
+                statsString += "@ + ";
+            else
+                statsString += "@ - ";
+            //----------разрывы графа
+            if (inTreeElement.parts.Count > 1)
+                statsString += "@ + ";
+            else
+                statsString += "@ - ";
+            //----------повисшие синтаксические группы
+            bool notFull = false;
+            bool hangingGroup = false;
+            for(int i = 0; i < inTreeElement.rels.Count; i++)
+            {
+                if (statsForThatProcess.relationUsedInd.ContainsKey(i))
+                {
+                    //не полностью обработанные группы
+                    if (statsForThatProcess.relationUsedInd[i] != SourceTargetEnum.Both)
+                    {
+                        notFull = true;
+                    }
+                }
+                else
+                {
+                    //повисшая группа
+                    hangingGroup = true;
+                }
+            }
+            if (notFull)
+                statsString += "@ + ";
+            else
+                statsString += "@ - ";
+
+            if (hangingGroup)
+                statsString += "@ + ";
+            else
+                statsString += "@ - ";
+            
+            
+            return statsString;
         }
 
         public string getString()
@@ -59,6 +117,7 @@ namespace Operation_Structures_of_Texts.Classes.Text_Model
             genStringFromAttr(additionalObjectsForAction);
 
             stringReprezentation += "}";
+            getStatString();
             return stringReprezentation;
         }
 
