@@ -26,7 +26,7 @@ namespace Operation_Structures_of_Texts.Classes.Sci_fi.Processors
             for (int i = 0; i < tree.Count; i++)
             {
                 ElementaryProcess ep = new ElementaryProcess(tree[i]);                
-                SemanticSearchWithProbabilytis search = new SemanticSearchWithProbabilytis(tree[i], sent);
+                SemanticSearchWithProbabilytis search = new SemanticSearchWithProbabilytis(tree[i], sent,i);
                 ep = search.optimazatorsSearch() as ElementaryProcess;
                 textAsProcess.Add(ep);
             }

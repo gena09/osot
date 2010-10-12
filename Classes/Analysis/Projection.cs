@@ -19,7 +19,7 @@ namespace Operation_Structures_of_Texts.Classes.Analysis
 
         public Projection()
         {
-            sym = new SyntaxProcessor();
+            sym = SyntaxProcessor.Instance;
             sem = new SemanticProcessor();
         }
 

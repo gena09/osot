@@ -49,7 +49,7 @@ namespace Operation_Structures_of_Texts.Classes.Text_Model
                 {
                     reprez += " " + operators[i] + " ";
                 }
-                catch (Exception ex) { }
+                catch { }
                 reprez += unionsForAttr2[i].getString();
             }
                 return reprez + ")";
